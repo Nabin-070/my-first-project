@@ -1,0 +1,94 @@
+*{
+
+}
+body{
+    font-family: 'Source Sans Pro', sans-serif;
+    width: 100%;
+}
+.list{
+    display: flex;
+    list-style: none;
+    justify-content: center;
+}
+.list a{
+    text-decoration: none;
+    margin-left: 20px;
+    color: black;
+}
+h1{
+    color: rgb(76, 16, 216);
+    font-size: 30px;
+}
+.name-highlight{
+    color: tomato;
+}
+img{
+    width: 250px;
+    height: 100%;
+    margin-left: 40px;
+}
+.section-one{
+   width: 70%;
+}
+.one{
+    width: 25%;
+}
+.half-width{
+    margin: 100px 0px 20px 100px;
+    width: 45%;
+}
+.half-width .btn{
+    padding: 10px 20px;
+    border-radius: 5px;
+    background-color: tomato;
+}
+.row{
+    display: flex;
+    margin: 0px 0px 30px;
+    justify-content: center;
+}
+.img-two{
+    margin-left: 50px;
+}
+.row-2{
+    display: flex;
+    margin: 30px;
+}
+.mama{
+    margin: 15px 0px 0px 350px;
+
+}
+.mama span{
+    color: rgb(228, 45, 13);
+}
+.section-two{
+    width: 55%;
+    height: 50%;
+    background-color:whitesmoke;
+    margin-left: 180px;
+
+}
+.all-img{
+    width: 26%;
+    margin: 20px;
+}
+.footer{
+    padding: 30px 250px;
+    background-color: yellow;
+}
+.div-one{
+    margin-left: 350px;
+    margin-top: 100px;
+}
+.a-one{
+    margin-left: 170px;
+    background-color: violet;
+    padding: 30px 20px;
+    border-radius: 5px;
+}
+.div-one span{
+    margin-left: 350px;
+    background-color: yellowgreen;
+    padding: 10px 20px;
+    border-radius: 6px;
+}
